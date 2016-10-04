@@ -12,12 +12,12 @@ html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: PT Sans, Verdana ,sans-serif;
+    font-family: "PT Sans", Verdana ,sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: PT Sans, Verdana ,sans-serif;
+    font-family: "PT Sans", Verdana ,sans-serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
@@ -40,7 +40,7 @@ nav li>a:active{
     color: #222;
 }
 p{
-    font-family: PT Serif, Times New Roman, serif;
+    font-family: "PT Serif", "Times New Roman", serif;
     font-size: 1.414rem;
     padding:0.5rem 2rem;
 }
